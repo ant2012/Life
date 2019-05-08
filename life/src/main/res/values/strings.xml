@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Life</string>
+    <string name="button_run">Go live</string>
+    <string name="org_count_label">Initial count</string>
+    <string name="count_to_die_label">Die count</string>
+    <string name="count_to_split_label">Split count</string>
+</resources>
